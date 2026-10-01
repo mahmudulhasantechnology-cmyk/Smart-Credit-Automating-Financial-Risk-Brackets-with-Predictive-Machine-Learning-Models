@@ -181,10 +181,7 @@ The dataset (`train.csv`, `test.csv`) contains customer-month banking records wi
 - Categories not seen during training are encoded as unknown, and missing values are filled with the training median.
 - The model and the saved `model.joblib` should be built with the same scikit-learn version you deploy with.
 
-## License
-
-Add a license of your choice (for example MIT) and state it here.
-
 ## Author
 
-**Mohsin Mubarok**
+**Mahmudul Hasan**
+
