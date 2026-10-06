@@ -4,16 +4,6 @@ Predicts a customer's credit score (Poor / Standard / Good)
 
 ![Credit Score Classification API](https://github.com/mahmudulhasantechnology-cmyk/Smart-Credit-Automating-Financial-Risk-Brackets-with-Predictive-Machine-Learning-Models/blob/Documents/image.png )
 
----
-title: Credit Score Classification API
-emoji: 💳
-colorFrom: blue
-colorTo: green
-sdk: docker
-app_port: 7860
-pinned: false
----
-
 # Credit Score Classification API
 
 A machine learning model that classifies a customer's credit score as **Poor**, **Standard**, or **Good** from their banking and credit data, served through a REST API built with FastAPI.
