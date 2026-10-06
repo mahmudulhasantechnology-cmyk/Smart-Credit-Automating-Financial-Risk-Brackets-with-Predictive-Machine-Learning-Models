@@ -1,3 +1,9 @@
+## Credit Score Classification API
+
+Predicts a customer's credit score (Poor / Standard / Good)
+
+![Credit Score Classification API](https://github.com/mahmudulhasantechnology-cmyk/Smart-Credit-Automating-Financial-Risk-Brackets-with-Predictive-Machine-Learning-Models/blob/Documents/image.png )
+
 ---
 title: Credit Score Classification API
 emoji: 💳
